@@ -1,0 +1,6 @@
+framework module Pods_iOSCalcultor_iOSCalcultorUITests {
+  umbrella header "Pods-iOSCalcultor-iOSCalcultorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
